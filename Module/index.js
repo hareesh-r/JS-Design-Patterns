@@ -1,5 +1,3 @@
-// app.js
-
 import { add, subtract, multiply, divide } from './calculationLogic.js';
 
 function runCalculator() {
