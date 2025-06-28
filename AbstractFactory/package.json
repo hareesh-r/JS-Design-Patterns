@@ -1,0 +1,20 @@
+{
+  "name": "abstract-factory-pattern",
+  "version": "1.0.0",
+  "description": "Abstract Factory Design Pattern example in JavaScript",
+  "main": "with-abstract-factory.js",
+  "scripts": {
+    "start": "node with-abstract-factory.js",
+    "without": "node without-abstract-factory.js",
+    "with": "node with-abstract-factory.js",
+    "compare": "echo 'Running without Abstract Factory:' && node without-abstract-factory.js && echo '\n\nRunning with Abstract Factory:' && node with-abstract-factory.js"
+  },
+  "keywords": [
+    "design-patterns",
+    "abstract-factory",
+    "javascript",
+    "creational-patterns"
+  ],
+  "author": "Design Patterns Examples",
+  "license": "MIT"
+} 
